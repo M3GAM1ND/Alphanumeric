@@ -1,0 +1,15 @@
+h1 {
+    padding-left: 100px;
+}
+form{
+    padding: 20px 100px;
+}
+hr{
+    margin: 20px 100px;
+}
+.formBody{
+    border: 2px solid lightgrey;
+    margin: 15px 80px;
+    border-radius: 20px;
+    background-color: #FAF7F0;
+}
